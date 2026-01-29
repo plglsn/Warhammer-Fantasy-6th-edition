@@ -3832,7 +3832,7 @@
                 </entryLink>
               </entryLinks>
               <costs>
-                <cost name="pts" typeId="ecfa-8486-4f6c-c249" value="24.0"/>
+                <cost name="pts" typeId="ecfa-8486-4f6c-c249" value="16.0"/>
               </costs>
             </entryLink>
             <entryLink id="327e-4b36-b581-7649" name="Dragon of Chaos" hidden="false" collective="false" import="true" targetId="f638-6690-ba43-3e58" type="selectionEntry">
@@ -4436,7 +4436,7 @@
                 </entryLink>
               </entryLinks>
               <costs>
-                <cost name="pts" typeId="ecfa-8486-4f6c-c249" value="24.0"/>
+                <cost name="pts" typeId="ecfa-8486-4f6c-c249" value="16.0"/>
               </costs>
             </entryLink>
             <entryLink id="43c4-f2b9-68db-371d" name="Daemonic Mount" hidden="false" collective="false" import="true" targetId="428e-ba34-513b-9f65" type="selectionEntry">
