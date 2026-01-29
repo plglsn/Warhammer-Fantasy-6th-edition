@@ -8085,6 +8085,7 @@
         <entryLink id="2e8c-f53c-f281-cb0c" name="Blasted Standard" hidden="false" collective="false" import="true" targetId="f86a-9d50-6096-d0ad" type="selectionEntry"/>
         <entryLink id="2eab-1d9b-ce66-4f11" name="Banner of Wrath" hidden="false" collective="false" import="true" targetId="46ac-6efb-5aa3-a6ad" type="selectionEntry"/>
         <entryLink id="47de-278f-7572-a32d" name="Rapturous Standard" hidden="false" collective="false" import="true" targetId="e73b-fe82-61fd-ad59" type="selectionEntry"/>
+        <entryLink id="781f-9b7a-2f8a-b7c6" name="War Banner" hidden="false" collective="false" import="true" targetId="f327-567f-ef99-0403" type="selectionEntry"/>
       </entryLinks>
     </selectionEntryGroup>
     <selectionEntryGroup id="98bb-18fb-609d-0d4a" name="Daemonic Gift Khorne" hidden="false" collective="false" import="true">
